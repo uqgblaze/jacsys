@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T06:41:42.433210+00:00",
+  "generated_at": "2026-10-20T06:41:52.295714+00:00",
   "total_profiles": 1,
   "semesters": {
     "7520": [
@@ -14,7 +14,7 @@
         "location": "St Lucia",
         "units": "2",
         "url": "https://course-profiles.uq.edu.au/course-profiles/ARCH1140-21354-7520",
-        "scraped_at": "2026-10-20T06:41:40.292209+00:00",
+        "scraped_at": "2026-10-20T06:41:50.660887+00:00",
         "attendance_mode": "In Person",
         "file": "profiles/7520/ARCH1140-21354-7520.json",
         "assessment_count": 3,
