@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T06:35:12.177583+00:00",
+  "generated_at": "2026-10-20T06:41:42.433210+00:00",
   "version": "1.1",
   "source_directory": "./profiles",
   "output_file": "./profiles/index.json",
@@ -32,7 +32,7 @@
       "learning_activities_count": 2,
       "group_assessment": false,
       "hurdle": true,
-      "scraped_at": "2026-10-20T06:35:09.551037+00:00"
+      "scraped_at": "2026-10-20T06:41:40.292209+00:00"
     }
   ]
 }
