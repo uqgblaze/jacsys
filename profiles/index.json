@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-10-20T06:35:12.177583+00:00",
+  "version": "1.1",
+  "source_directory": "./profiles",
+  "output_file": "./profiles/index.json",
+  "total_courses": 1,
+  "total_semesters": 1,
+  "total_prefixes": 1,
+  "courses": [
+    {
+      "id": "ARCH1140-21354-7520",
+      "full_course_code": "ARCH1140-21354-7520",
+      "course_code": "ARCH1140",
+      "course_title": "Buildings in History & Culture",
+      "class_code": "21354",
+      "semester_code": "7520",
+      "study_period": "Sem 1 2025",
+      "study_level": "Undergraduate",
+      "units": "2",
+      "url": "https://course-profiles.uq.edu.au/course-profiles/ARCH1140-21354-7520",
+      "json_path": "profiles/7520/ARCH1140-21354-7520.json",
+      "json_url": "https://uqgblaze.github.io/jacsys/profiles/7520/ARCH1140-21354-7520.json",
+      "prefix": "ARCH",
+      "location": "St Lucia",
+      "attendance": "In Person",
+      "display_label": "ARCH1140: Buildings in History & Culture (Sem 1 2025)",
+      "course_coordinator_name": "Dr Catherine Keys",
+      "course_coordinator_email": "c.keys@uq.edu.au",
+      "staff_count": 2,
+      "learning_outcomes_count": 5,
+      "assessments_count": 3,
+      "learning_activities_count": 2,
+      "group_assessment": false,
+      "hurdle": true,
+      "scraped_at": "2026-10-20T06:35:09.551037+00:00"
+    }
+  ]
+}
